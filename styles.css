@@ -1,11 +1,12 @@
 #output{
 	box-shadow:inset 1px 1px 4px #000;	
-	padding: 5%;
-	width: 100%;	
+	padding: 3%;
+	width: 100%;
+	background-color: white;	
 }
 .container{
 	width: 20%;
-	padding-top: 5%;
+	padding-top: 3%;
 	margin-top:5% ;
 	background-color: #D3D3D3;
 }
